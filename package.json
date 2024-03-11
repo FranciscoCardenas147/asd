@@ -1,0 +1,20 @@
+{
+  "name": "ejemplogit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoCardenas147/asd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoCardenas147/asd/issues"
+  },
+  "homepage": "https://github.com/FranciscoCardenas147/asd#readme"
+}
